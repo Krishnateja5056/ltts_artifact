@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/arithmetic.dir/main.cpp.o CMakeFiles/arithmetic.dir/addition.cpp.o CMakeFiles/arithmetic.dir/division.cpp.o CMakeFiles/arithmetic.dir/print_result.cpp.o  -o arithmetic 

@@ -1,0 +1,3 @@
+/var/lib/jenkins/workspace/gitpip/22/CMakeFiles/rebuild_cache.dir
+/var/lib/jenkins/workspace/gitpip/22/CMakeFiles/arithmetic.dir
+/var/lib/jenkins/workspace/gitpip/22/CMakeFiles/edit_cache.dir

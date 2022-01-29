@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/var/lib/jenkins/workspace/gitpip/addition.cpp
+
+/var/lib/jenkins/workspace/gitpip/addition.h
+
+/var/lib/jenkins/workspace/gitpip/division.cpp
+
+/var/lib/jenkins/workspace/gitpip/division.h
+
+/var/lib/jenkins/workspace/gitpip/main.cpp
+iostream
+-
+addition.h
+/var/lib/jenkins/workspace/gitpip/addition.h
+division.h
+/var/lib/jenkins/workspace/gitpip/division.h
+print_result.h
+/var/lib/jenkins/workspace/gitpip/print_result.h
+
+/var/lib/jenkins/workspace/gitpip/print_result.cpp
+iostream
+-
+
+/var/lib/jenkins/workspace/gitpip/print_result.h
+
